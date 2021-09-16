@@ -1,5 +1,5 @@
 # Python Master Class
-Complete list of Lessons for the Python Master Class
+Complete list of Lessons for the Python Master Class are listed here. This course is designed for absolute beginners. The learner could be from any age. There is no limit to the age however, there is requirement to know English. There are numerous sources for the learning Python. This content is specifcally for Learns in Python Master Class conducted by Kana Sabaratnam. You are free to use and replicate the information. The purpose of this is increase the awareness and decrease the fears of programming. 
 
 # Part 1 - Intro to Python
 * Lesson 1 - Setup and Variables
