@@ -6,13 +6,13 @@ Complete list of Lessons for the Python Master Class are listed here. This cours
 * Lesson 2 - Logical Operators
 * Lesson 3 - Squares, Roots and Cubes
 * Lesson 4 - Algebra
-# Part 2 - Statistics and Probability
+# Part 2 - Data Wrangling, Graphing and Statistics
 * Lesson 5 - Data Handling
 * Lesson 6 - Graphing and Plotting
-* Lesson 7 - Functions, Classes and Objects
+* Lesson 7 - Functions, Classes and Object Orientation
 * Lesson 8 - Statistics and Probability
-# Part 3 - Application Development
-* Lesson 9 - Web API and Web Scrapping
+# Part 3 - ML and Web Intelligence
+* Lesson 9 - Web API and Web Scraping
 * Lesson 10 - Desktop Applications
 * Lesson 11 - Machine Learning
 * Lesson 12 - Annimation and Keyboard Contents
