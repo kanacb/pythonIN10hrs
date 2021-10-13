@@ -12,8 +12,8 @@ Complete list of Lessons for the Python Master Class are listed here. This cours
 * Lesson 7 - Functions, Classes and Objects
 * Lesson 8 - Statistics and Probability
 # Part 3 - Application Development
-* Lesson 9 - Web API and Web Applications
-* Lesson 10 - Desktop Application
+* Lesson 9 - Web API and Web Scrapping
+* Lesson 10 - Desktop Applications
 * Lesson 11 - Machine Learning
 * Lesson 12 - Annimation and Keyboard Contents
 * Lesson 13 - Automated WhatsApp Messages
