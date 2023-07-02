@@ -1,25 +1,22 @@
 # Python Master Class
-Complete list of Lessons for the Python Master Class are listed here. This course is designed for absolute beginners. The learner could be from any age. There is no limit to the age however, there is requirement to know English. There are numerous sources for the learning Python. This content is specifcally for Learners in the Python Master Class conducted by Kana Sabaratnam. You are free to use and replicate the content. The purpose of this is to increase the awareness and decrease the fears of programming. 
+Welcome to "Learn Python in 10 Hours" – a free introductory course designed to help you embark on your Python programming journey! In this course, we'll provide you with a solid foundation in Python programming concepts and syntax, empowering you to start writing your own Python code in just 10 hours.
 
-# Part 1 - Intro to Python
+## Lesson Plan
 * Lesson  1 - Setup and Variables
 * Lesson  2 - Logical Operators
-* Lesson  3 - Squares, Roots and Cubes
-* Lesson  4 - Algebra
-# Part 2    - Data Wrangling, Graphing and Statistics
-* Lesson  5 - Data Handling
-* Lesson  6 - Graphing and Plotting
-* Lesson  7 - Functions, Classes and Object Orientation
-* Lesson  8 - Statistics and Probability
-# Part 3    - ML and Web Intelligence
-* Lesson  9 - Web API and Web Scraping
-* Lesson 10 - Desktop Apps
-* Lesson 11 - Machine Learning Techniques
-* Lesson 12 - Annimation and Keyboard Controls
-* Lesson 13 - Automated WhatsApp Messages
-* Lesson 14 - Self Driving Car
-* Lesson 15 - Group Photo and Sharing Session
+* Lesson  3 - Graphing and Plotting
+* Lesson  4 - Data Handling
+* Lesson  5 - Statistics and Probability
 
 
-Please visit our website develop by Suthan Mahalingam
-https://python-master-class-eaa7e.web.app/home
+Throughout this course, we'll guide you step-by-step, covering essential Python topics such as variables, data types, control flow, functions, and more. You'll learn how to manipulate data, create interactive programs, and solve real-world problems using Python. Each lesson is crafted with simplicity in mind, ensuring that complex concepts are explained in a straightforward manner.
+
+To keep the learning process exciting, we've incorporated hands-on exercises and coding challenges at regular intervals. These activities will enable you to apply what you've learned, reinforce your understanding, and develop your problem-solving skills. You'll have the opportunity to write your own Python code, experiment with different concepts, and witness the immediate results of your efforts.
+
+As a bonus, we've also included real-world examples and practical projects that demonstrate the applications of Python in various domains. From web development and data analysis to automation and machine learning, you'll gain insights into how Python is used in the industry and inspire your own creative projects.
+
+To ensure your success, we encourage you to actively participate in the learning process. Ask questions, seek clarification, and engage with your fellow learners through discussion forums or study groups. Learning Python is not just about understanding the syntax; it's about fostering a problem-solving mindset and embracing the joy of coding.
+
+We believe that programming should be accessible to everyone, regardless of financial barriers. That's why this course is available to you for free. We're excited to embark on this Python programming journey together and help you unlock your potential as a Python developer.
+
+So, are you ready to dive into the world of Python? Let's begin "Learn Python in 10 Hours" and discover the endless possibilities that await you in the world of programming!
